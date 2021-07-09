@@ -1,6 +1,6 @@
 # React Summary
 ## Redux + toolkit
-![](./images/reduxtoolkit.jpg)
+![](./images/reduxToolkit.jpg)
 ## useReducer Hook 🎣
 ![](./images/reducer.jpg)
 
