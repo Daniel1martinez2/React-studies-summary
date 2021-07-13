@@ -1,9 +1,11 @@
 # React Summary
+> HOOKS
 ## useReducer Hook 🎣
 ![](./images/reducer.jpg)
+> REDUX
 ## Redux + toolkit
 ![](./images/reduxToolkit.jpg)
-## redux Custom action creator function
+## Redux custom action creator function
 ### is simply a function that delays an action until later (until something else finished)
-![](./images/redux-thunk.jpg)
+![](./images/thunk.png)
 
