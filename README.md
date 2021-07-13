@@ -5,9 +5,11 @@
 ![](./images/state.png)
 ## useReducer Hook 🎣
 ![](./images/reducer.jpg)
+## useContext Hook 🎣
+![](./images/context.png)
 > REDUX
 ## Redux + toolkit
-![](./images/reduxToolkit.jpg)
+![](./images/redux-finale.png)
 ## Redux custom action creator function
 ### is simply a function that delays an action until later (until something else finished)
 ![](./images/thunk.png)
