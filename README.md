@@ -13,11 +13,15 @@
 ## Redux custom action creator function
 ### is simply a function that delays an action until later (until something else finished)
 ![](./images/thunk.png)
+> React Router
+## Basic
+![](./images/router.png)
+## Query Parameters
+![](./images/router_params.png)
 > OTHER
 ## Portals
 ### Portals provide a first-class way to render children into a DOM node that exists outside the DOM hierarchy of the parent component.
 ![](./images/portal.png)
-# React Router
-![](./images/router.png)
+
 
 
