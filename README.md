@@ -26,6 +26,14 @@
     //code to render
   </Route>
 ```
+## Imperative Navigation
+```
+  import { useHistory } from "react-router-dom";
+  const history = useHistory(); 
+  //use push or replace
+   history.push('/quotes')
+```
+
 > OTHER
 ## Portals
 ### Portals provide a first-class way to render children into a DOM node that exists outside the DOM hierarchy of the parent component.
